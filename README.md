@@ -72,7 +72,9 @@ Visualizaciones
 •	Visualización cantidades de contratos por justificación de modalidad de contratación.
 •	Tabla con la información general de los procesos de contratación. En esta tabla se identifican las siguientes columnas: Dependencia, Número de proceso, Número de contrato, Estado del contrato, Objeto contractual, Valor del proceso, Fecha de publicación del proceso, Modalidad y Enlace del Proceso.
 
-![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/7f82d837-7a69-47ee-85e8-c72daa8d3db6)
+![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/70304ef6-91b5-4019-9702-83cf5d2a97f4)
+![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/a8e457c5-8db5-40c6-b300-9409062507c8)
+
 
 Este tablero se encuentra actualmente publicado en el siguiente enlace:
 
@@ -93,7 +95,10 @@ Visualizaciones
 •	Visualización cantidades y valores de contratos por plataforma.
 •	Tabla con la información general de los contratos. En esta tabla se identifican las siguientes columnas: Dependencia, Número de contrato, Estado del Contrato, Objeto contractual, Modalidad contractual, Año de firma y Enlace del Proceso.
 
-![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/087b50cf-1238-47b7-bc5f-67782f1c418b)
+![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/763fa210-d4c2-499a-9416-be4c26f8be15)
+![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/fe09dff0-2599-4412-beeb-c33e2347e7fe)
+![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/229120e2-1d89-4ff3-b499-652f17713505)
+
 
 Este tablero se encuentra actualmente publicado en el siguiente enlace:
 
@@ -112,7 +117,9 @@ Visualizaciones
 •	Visualizaciones comparativas de las necesidades contra los procesos publicados en cantidad y valor por dependencia.
 •	Visualizaciones comparativas de las necesidades actuales contra las necesidades publicadas inicialmente en cantidad y valor por dependencia.
 
- ![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/0ab0f7b2-0136-446c-99b0-286e359a6cb4)
+![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/6d373e3a-7af7-44ab-9dc2-84231eee8857)
+![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/f99f585b-2fc0-4ea5-8ce9-a83209ae6dec)
+
 
 Este tablero se encuentra actualmente publicado en el siguiente enlace:
 
