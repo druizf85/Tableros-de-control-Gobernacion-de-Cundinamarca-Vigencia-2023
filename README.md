@@ -26,13 +26,14 @@ Para la vigencia 2023 la Gobernación de Cundinamarca contaba con 23 dependencia
 -	Alta Consejería para la Felicidad
 
 Teniendo en cuenta que se debía llevar un orden y ciertos estándares en la contratación del nivel centralizado, dentro de la Dirección de Contratación de la Secretaría Jurídica de la Gobernación de Cundinamarca se tenía la necesidad de crear tableros de control que les permitieran a los diferentes participes del sistema de compras públicas conocer en tiempo real el estado de cada proceso de contratación para la vigencia 2023 y poder identificar, por entidad centralizada, diferentes aspectos que son relevantes para la toma de decisiones a nivel gerencial, dentro de los cuales se destacan, entre otros aspectos, los siguientes:
-(i)	la cantidad de procesos publicados, 
-(ii)	el valor de los procesos, 
-(iii)	modalidades de contratación, 
-(iv)	tipos de contrato, 
-(v)	justificación de modalidades, 
-(vi)	buscador por proceso, 
-(vii)	estadísticas de cantidad de ofertas recibidas, 
+
+(i)	Cantidad de procesos publicados. 
+(ii)	Valor de los procesos. 
+(iii)	Modalidades de contratación. 
+(iv)	Tipos de contrato. 
+(v)	Justificación de modalidades. 
+(vi)	Buscador por proceso. 
+(vii)	Estadísticas de cantidad de ofertas recibidas. 
 
 Para dar solución a esta problemática se consolidó un equipo multidisciplinario, con experiencia en estructuración y ejecución de contratos estatales y con los conocimientos en analítica de datos enfocados en contratación, se procedió a investigar qué opciones existían como fuentes de información confiables y actualizadas. Por lo cual, se determinó utilizar la información que se publica y actualiza diariamente en los Datos Abiertos del Sistema Electrónico de Contratación Pública – SECOP y que es directamente administrado por la Agencia Nacional de Contratación Pública – Colombia Compra Eficiente, para las entidades centralizadas, y así lograr establecer e implementar buenas prácticas en materia de contratación y poder hacer un adecuado seguimiento al manejo de los recursos asignados a cada entidad. Además, le permitiría a los proveedores, ciudadanía y entes de control poder utilizarlo para realizar un seguimiento continuo.
 Dentro de las problemáticas a resolver se establecieron proyectos que se debían abordar, el seguimiento a los procesos que se publican en tiempo real, los contratos firmados en el periodo de gobierno (2020-2023) y la consolidación, estandarización y seguimiento a los planes anuales de adquisiciones publicados por las diferentes dependencias del nivel centralizado.
