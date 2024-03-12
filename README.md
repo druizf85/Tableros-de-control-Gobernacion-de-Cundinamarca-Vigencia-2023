@@ -1,4 +1,4 @@
-# Tableros-de-control---Gobernaci-n-de-Cundinamarca
+# Tableros-de-control - Gobernación de Cundinamarca Vigencia 2023
 
 Para la vigencia 2023 la Gobernación de Cundinamarca contaba con 23 dependencias que hacían parte del nivel centralizado de la contratación:
 -	Secretaria de Salud
