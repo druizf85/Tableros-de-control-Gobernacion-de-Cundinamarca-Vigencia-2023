@@ -24,6 +24,7 @@ Para la vigencia 2023 la Gobernación de Cundinamarca contaba con 23 dependencia
 -	Secretaria de Agricultura y Desarrollo Rural
 -	Secretaría de Minas Energía y Gas
 -	Alta Consejería para la Felicidad
+
 Teniendo en cuenta que se debía llevar un orden y ciertos estándares en la contratación del nivel centralizado, dentro de la Dirección de Contratación de la Secretaría Jurídica de la Gobernación de Cundinamarca se tenía la necesidad de crear tableros de control que les permitieran a los diferentes participes del sistema de compras públicas conocer en tiempo real el estado de cada proceso de contratación para la vigencia 2023 y poder identificar, por entidad centralizada, diferentes aspectos que son relevantes para la toma de decisiones a nivel gerencial, dentro de los cuales se destacan, entre otros aspectos, los siguientes:
 (i)	la cantidad de procesos publicados, 
 (ii)	el valor de los procesos, 
