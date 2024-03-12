@@ -43,7 +43,7 @@ Para cada uno de estos tres proyectos se elaboró un proceso extracción, transf
 (i)	Extracción (Extract): Identificar las fuentes de datos relevantes para el tablero de control.
 
 •	Establecer conexiones seguras y eficientes con estas fuentes de datos, utilizando protocolos de seguridad.
-•	Implementar rutinas de extracción automatizadas para garantizar la actualización regular de los datos, utilizando scripts de Python.
+•	Implementar rutinas de extracción automatizadas para garantizar la actualización regular de los datos.
 
 (ii)	Transformación (Transform):
 
