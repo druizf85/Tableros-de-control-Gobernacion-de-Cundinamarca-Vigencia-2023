@@ -40,7 +40,7 @@ Para dar solución a esta problemática se consolidó un equipo multidisciplinar
 Dentro de las problemáticas a resolver se establecieron proyectos que se debían abordar, el seguimiento a los procesos que se publican en tiempo real, los contratos firmados en el periodo de gobierno (2020-2023) y la consolidación, estandarización y seguimiento a los planes anuales de adquisiciones publicados por las diferentes dependencias del nivel centralizado.
 Para cada uno de estos tres proyectos se elaboró un proceso extracción, transformación y carga de los datos (ETL - Extract, Transform, Load) desde diversas fuentes hacia el repositorio de datos que alimentará las visualizaciones del tablero (Microsoft Power BI). El proceso consistirá en diversas etapas:
 
-(i)	Extracción (Extract): Identificar las fuentes de datos relevantes para el tablero de control, como bases de datos internas, sistemas de gestión, archivos CSV, API de Colombia Compra Eficiente, entre otros.
+(i)	Extracción (Extract): Identificar las fuentes de datos relevantes para el tablero de control.
 
 •	Establecer conexiones seguras y eficientes con estas fuentes de datos, utilizando protocolos de seguridad.
 •	Implementar rutinas de extracción automatizadas para garantizar la actualización regular de los datos, utilizando scripts de Python.
@@ -62,6 +62,7 @@ Una vez que se han recopilado y procesado los datos, se procedió a diseñar y c
 
 1.	TABLERO DE CONTROL SEGUIMIENTO A PROCESOS DE CONTRATACIÓN PUBLICADOS
 Tablero de control de acceso público que incorpora la información publicada en el SECOP II para la vigencia 2023, con el fin de que los interesados puedan verificar de manera precisa, actualizada e interactiva los datos de los procesos publicados y con un periodo de actualización diaria.
+
 Visualizaciones
 
 •	Cifras generales - cantidad y valor de procesos de contratación y porcentajes de participación en la actual vigencia.
