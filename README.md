@@ -38,30 +38,13 @@ Teniendo en cuenta que se debía llevar un orden y ciertos estándares en la con
 Para dar solución a esta problemática se consolidó un equipo multidisciplinario, con experiencia en estructuración y ejecución de contratos estatales y con los conocimientos en analítica de datos enfocados en contratación, se procedió a investigar qué opciones existían como fuentes de información confiables y actualizadas. Además, esto permitiría a los proveedores, ciudadanía y entes de control poder utilizarlo para realizar un seguimiento continuo.
 
 Dentro de las problemáticas a resolver se establecieron proyectos que se debían abordar, el seguimiento a los procesos que se publican en tiempo real, los contratos firmados en el periodo de gobierno (2020-2023) y la consolidación, estandarización y seguimiento a los planes anuales de adquisiciones publicados por las diferentes dependencias del nivel centralizado.
-Para cada uno de estos tres proyectos se elaboró un proceso extracción, transformación y carga de los datos (ETL - Extract, Transform, Load) desde diversas fuentes hacia el repositorio de datos que alimentará las visualizaciones del tablero (Microsoft Power BI). El proceso consistirá en diversas etapas:
-
-(i)	Extracción (Extract): Identificar las fuentes de datos relevantes para el tablero de control.
-
-•	Establecer conexiones seguras y eficientes con estas fuentes de datos, utilizando protocolos de seguridad.
-•	Implementar rutinas de extracción automatizadas para garantizar la actualización regular de los datos.
-
-(ii)	Transformación (Transform):
-
-•	Realizar la limpieza de los datos extranjeros para eliminar valores nulos, datos duplicados, inconsistencias y errores tipográficos que puedan afectar la calidad de las visualizaciones.
-•	Aplicar transformaciones y cálculos necesarios para derivar nuevas métricas o indicadores relevantes para el tablero de control.
-•	Unificar y estandarizar la estructura de los datos procedentes de diferentes fuentes para facilitar su análisis y visualización.
-•	Identificar y tratar valores atípicos o outliers que puedan distorsionar las conclusiones extraídas del análisis de datos.
-
-(iii)	Carga (Load):
-
-•	Diseñar el esquema de la base de datos que almacenará los datos transformados, asegurando una estructura óptima para el almacenamiento eficiente y la recuperación rápida de la información.
-•	Establecer procesos de carga automatizados que transfieran los datos limpios y transformados desde el área de preparación hacia la base de datos del tablero de control.
-•	Implementar mecanismos de control de calidad para verificar la integridad y consistencia de los datos cargados, mediante la comparación de conteos de registros y validaciones de integridad referencial si corresponde.
+Para cada uno de estos tres proyectos se elaboró un proceso extracción, transformación y carga de los datos (ETL) desde diversas fuentes hacia el repositorio de datos que alimentará las visualizaciones del tablero en la herramienta Microsoft Power BI. 
 
 Una vez que se han recopilado y procesado los datos, se procedió a diseñar y configurar cada uno de los tableros de control: 
 
 1.	TABLERO DE CONTROL SEGUIMIENTO A PROCESOS DE CONTRATACIÓN PUBLICADOS
-Tablero de control de acceso público que incorpora la información publicada en el SECOP II para la vigencia 2023, con el fin de que los interesados puedan verificar de manera precisa, actualizada e interactiva los datos de los procesos publicados y con un periodo de actualización diaria.
+
+Tablero de control de acceso público que incorpora la información publicada en el SECOP II para la vigencia 2023 de todos los procesos publicados y con un periodo de actualización diaria.
 
 Visualizaciones
 
@@ -84,7 +67,7 @@ https://app.powerbi.com/view?r=eyJrIjoiMDBlMjBiZDItNTVkMS00ZTkxLWEyYjEtYTljZGJkZ
 
 2.	TABLERO DE CONTROL CONTRATACIÓN HISTÓRICA 
 
-Tablero de control de acceso público que incorpora la información contractual histórica publicada en el Sistema Electrónico de Contratación Pública - SECOP, el cual se compone de: (i) SECOP I, (ii) SECOP II y (iii) Tienda Virtual del Estado Colombiano – TVEC, con el fin de que la entidad pueda verificar de manera precisa la información de los contratos firmados históricamente con un periodo de actualización diaria.
+Tablero de control de acceso público que incorpora la información contractual histórica publicada en el Sistema Electrónico de Contratación Pública - SECOP, el cual se compone de: (i) SECOP I, (ii) SECOP II y (iii) Tienda Virtual del Estado Colombiano – TVEC, con un periodo de actualización diaria.
 
 Visualizaciones
 
@@ -131,9 +114,7 @@ Para estos tres tableros de control se realizaron las respectivas pruebas y ajus
 
 Por otro lado, se elaboró la documentación de la metodología implementada, procesos de transformación y demás ajustes realizados a las diferentes versiones del tablero de control. Además, se crearon y socializaron los manuales de usuario para cada uno de los tableros desarrollados y publicados.
 
-Finalmente, estos tableros fueron una herramienta socializada a nivel interno, se realizaron jornadas de capacitación, tanto a nivel de la dirección como para los usuarios finales, con el fin de que pudieran sacar todo el provecho al tablero de control de manera efectiva.
-
-Además, estos tableros de control se implementaron para diferentes fines:
+Finalmente, estos tableros de control cumplieron los siguientes objetivos:
 
 -	Estandarizar procesos internos de publicación de contratos para las 23 dependencias del nivel centralizado.
 -	Verificación de la liquidación de los contratos publicados desde la vigencia 2020 a 2023.
